@@ -1,0 +1,8 @@
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.f-500 {
+    font-weight: 500;
+}
